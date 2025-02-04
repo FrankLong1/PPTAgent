@@ -14,4 +14,4 @@ node_modules
 frontend/.yarn
 frontend/.pnp.loader.mjs
 frontend/.pnp.cjs
-human_eval
+human_eval.env
